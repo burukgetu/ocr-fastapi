@@ -1,7 +1,5 @@
 fastapi
 uvicorn
 easyocr
-opencv-python-headless
-numpy
-python-multipart
 gunicorn
+opencv-python-headless
